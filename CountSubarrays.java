@@ -16,7 +16,7 @@ public class CountSubarrays {
         int[] nums= {1,2,1,4,1}; 
 
         Solution s = new Solution();
-        System.err.println(s.count(nums));
+        System.out.println(s.count(nums));
     }
     
 }
